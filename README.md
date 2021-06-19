@@ -8,16 +8,17 @@ Gminer图形化界面，无缝配合Gminer原版，不用去研究长篇英文�
 
 提供全功能免费试用，以便让你体验是否简单又好用，是否安全无抽水。
 
+![主界面](https://github.com/MagicXC/GminerUITool/blob/main/mainUI.png)
+
 主要特性：
--自动设置虚拟内存
--自动设置防火墙及WDF
--自动推荐超频参数
--自动运行上次正确参数
--自动识别显卡硬件增减
--重启自动续挖
--人工超频参数细调
+* 自动设置虚拟内存
+* 自动设置防火墙及WDF
+* 自动推荐超频参数
+* 自动运行上次正确参数
+* 自动识别显卡硬件增减
+* 重启自动续挖
+* 人工超频参数细调
 
 使用方法：下载解压Gminer图形化工具，得到两个文件，把这两个文件放入原版Gminer的解压目录下，双击Gminer图形化工具图标，即可开始你的Gminer原版之旅！
 
-原版Gminer官方下载地址：
-https://github.com/develsoftware/GMinerRelease/releases
+[前往官方网页下载原版Gminer](https://github.com/develsoftware/GMinerRelease/releases)
