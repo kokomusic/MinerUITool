@@ -6,7 +6,7 @@ Gminer图形化界面，无缝配合Gminer原版，不用去研究长篇英文�
 
 帮你启动原版后，可以彻底退出后台，绝无抽水的可能。
 
-![主界面](https://github.com/MagicXC/GminerUITool/blob/main/mainUI.png)
+![主界面](https://github.com/MagicXC/GminerUITool/blob/main/newUI.jpg)
 
 主要特性：
 * 自动设置虚拟内存
