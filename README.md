@@ -14,7 +14,7 @@ Gminer图形化界面，无缝配合Gminer原版，不用去研究长篇英文�
 * 自动识别显卡硬件增减
 * 重启自动续挖
 * 人工超频参数细调
-* 自动计算并统一同型号不同品牌显卡的功耗
+* 自动计算同型号不同品牌显卡的功耗百分比，统一工作功率
 
 使用方法：下载解压Gminer图形化工具，放入原版Gminer目录下，双击Gminer图形化工具图标，即可开始你的Gminer原版之旅！[立刻下载最新版](https://github.com/MagicXC/GminerUITool/releases)
 
