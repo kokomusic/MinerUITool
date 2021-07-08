@@ -1,11 +1,11 @@
-# Gminer图形化工具（免费、不报毒）
+# Gminer图形化工具（无抽水、不报毒）
 
 Gminer是俄罗斯大神写的原版内核，实测快而稳定。但原版命令行的参数很复杂，而且全是e文，令人望而却步。
 
 Gminer图形化界面，无缝配合Gminer原版，人性化的智能、丰富的提示，帮你愉快使用原版！
 
 
-![主界面](https://github.com/MagicXC/GminerUITool/blob/main/v2.6界面.jpg)
+![主界面](https://github.com/MagicXC/GminerUITool/blob/main/v3.0界面.jpg)
 
 主要特性：
 * 自动重启续挖
