@@ -17,6 +17,9 @@ Gminer图形化界面，无缝配合Gminer原版，人性化的智能、丰富�
 * 自动统一同型号不同品牌显卡的实际功耗
 
 使用方法：
-下载并解压Gminer图形化工具，放入原版目录下，双击即可开始你的原版之旅！[点此下载最新版](https://github.com/MagicXC/GminerUITool/releases)
 
-[需配合原版Gminer使用，点此前往官网下载](https://github.com/develsoftware/GMinerRelease/releases)
+![使用方法](https://github.com/MagicXC/GminerUITool/blob/main/use.jpg)
+
+解压原版生成文件夹，再解压图形化工具，放入原版文件夹，双击工具开始原版之旅！ [点此下载Gminer图形化工具](https://github.com/MagicXC/GminerUITool/releases)
+
+[点此下载Gminer原版 https://github.com/develsoftware/GMinerRelease/releases](https://github.com/develsoftware/GMinerRelease/releases)
