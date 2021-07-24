@@ -21,7 +21,7 @@ Gminer图形化界面，无缝配合Gminer原版，人性化的智能、窗口�
 
 使用方法：
 
-![使用方法](https://github.com/MagicXC/GminerUITool/blob/main/use.jpg)
+![使用方法](https://github.com/MagicXC/GminerUITool/blob/main/sy.jpg)
 
 解压原版生成文件夹，再解压图形化工具，放入原版文件夹，双击工具开始原版之旅！ [点此下载Gminer图形化工具](https://github.com/MagicXC/GminerUITool/releases)
 
