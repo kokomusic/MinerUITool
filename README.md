@@ -4,7 +4,7 @@
 
 Gminer是俄罗斯大神写的原版内核，实测快而稳定。但原版命令行的参数很复杂，而且全是e文，令人望而却步。
 
-Gminer图形化界面，无缝配合Gminer原版，人性化的智能、窗口文字的鼠标悬停提示，帮你愉快使用原版！
+小小矿工，图形化界面，无缝配合Gminer原版，人性化的智能、丰富的鼠标悬停提示，帮你愉快使用原版！
 
 
 ![主界面](https://github.com/MagicXC/GminerUITool/blob/main/main.jpg)
