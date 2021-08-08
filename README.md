@@ -1,4 +1,4 @@
-# 小小矿工（不收费、不抽水、简单、智能、原版）
+# 小小矿工（不抽水、简单、智能、原版）
 
 编程缘由：
 
@@ -20,4 +20,4 @@
 
 使用方法：
 
-下载解压得到一个文件，建议放桌面最方便，运行按提示做就可以了，简单到不需要教程！ [点此下载Gminer图形化工具](https://github.com/MagicXC/GminerUITool/releases)
+下载解压得到一个文件，建议放桌面最方便，运行按提示做，简单到不需要教程！ [点此下载Gminer图形化工具](https://github.com/MagicXC/GminerUITool/releases)
