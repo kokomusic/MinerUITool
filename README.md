@@ -21,4 +21,5 @@
 使用方法：
 
 下载解压得到一个文件，放入Gminer内核文件夹，运行小小原版，按提示做，简单到不需要教程！ [点此下载小小原版](https://github.com/MagicXC/GminerUITool/releases)
+
 [点此下载Gminer内核https://github.com/develsoftware/GMinerRelease/releases](https://github.com/develsoftware/GMinerRelease/releases)
