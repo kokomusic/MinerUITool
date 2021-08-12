@@ -7,7 +7,7 @@
 小小原版，图形化界面，无缝配合原版，人性化的智能、丰富的鼠标悬停提示，帮你愉快使用原版内核！
 
 
-![主界面](https://github.com/MagicXC/GminerUITool/blob/main/4.0.jpg)
+![主界面](https://github.com/MagicXC/GminerUITool/blob/main/20210812150753.png)
 
 主要特性：
 * 自动双核心分配，支持AN混插
