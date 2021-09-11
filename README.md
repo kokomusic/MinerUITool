@@ -18,4 +18,4 @@
 
 ![主界面](https://github.com/MagicXC/GminerUITool/blob/main/1c.jpg)
 
-下载、解压、运行小小矿工，按提示做，简单到不需要教程！ [点此下载小小矿工](https://github.com/MagicXC/GminerUITool/releases)
+下载、解压、运行小小矿工，按提示做，简单到不需要教程！ [点此下载](https://github.com/MagicXC/GminerUITool/releases)
