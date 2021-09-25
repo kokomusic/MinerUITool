@@ -2,7 +2,7 @@
 
 * 单文件，身材苗条，不需安装直接运行
 
-![主界面](https://github.com/MagicXC/GminerUITool/blob/main/00a.jpg)
+![主界面](https://github.com/MagicXC/GminerUITool/blob/main/0a.jpg)
 
 * 单窗口，自动超频参数，不用懂太多也会用
 窗口每一处文字鼠标停留都会有经验提示，犹如专业老矿工一对一指导
